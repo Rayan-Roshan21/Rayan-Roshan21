@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I’m Rayan, a Computer Science student at TMU<br><br>🚀 Founder of Univ, an app simplifying university admissions<br><br>💻 Passionate about tech, programming, and entrepreneurship<br><br>🔍 Always eager to learn and collaborate<br><br>✨ Let’s connect!<br><br>
+👋 I’m Rayan, a Computer Science student at TMU<br><br>💻 Passionate about tech, programming, and entrepreneurship<br><br>🔍 Always eager to learn and collaborate<br><br>✨ Check my socials to connect!<br><br>
 
 
 ## 🌐 Socials:
