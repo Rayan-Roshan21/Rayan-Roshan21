@@ -22,8 +22,7 @@
 - 🛠️ **VP of Technology** at **TMU BYTE**, leading 13 engineers across Backend, Frontend, and AI tracks
 - 🧠 Interested in AI applications, fintech, and building products end-to-end
 - 📈 Also into markets & personal finance — always tracking something in a spreadsheet
-- ⚾ Toronto Blue Jays fan
-- ✨ Check my socials above to connect!
+- 💬 Check my socials above to connect!
 
 <br>
 
