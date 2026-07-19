@@ -44,7 +44,6 @@
 | Project | Description | Built With |
 |---|---|---|
 | **Yapp** | Campus discovery platform, launched at BYTE Demo Day | `React` `Node.js` |
-| **Nous** | A persistent cognitive mirror & semantic knowledge graph | `TypeScript` `Vector DB` |
 | **AskCents** | Finance wellness app with AI-driven insights | `React` `Vite` `Gemini` `Plaid API` |
 | **Univ** | iOS admissions platform, built under a DMZ & IBZ fellowship | `Swift` |
 | **Customer Support Voice Agent** | Voice-based AI support agent with semantic search | `Next.js` `TypeScript` `OpenAI` `Pinecone` |
