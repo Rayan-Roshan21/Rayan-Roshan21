@@ -75,9 +75,6 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Rayan-Roshan21&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Roshan21&layout=compact&theme=radical&hide_border=true"/>
-
 <br>
 
 <img src="https://streak-stats.demolab.com?user=Rayan-Roshan21&theme=radical&hide_border=true" width="70%"/>
