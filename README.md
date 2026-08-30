@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Rayan Roshan" width="420" />
+<img src="./banner.svg" alt="Rayan Roshan" width="420" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=00FF9C&center=true&vCenter=true&width=620&lines=CS+Co-op+'29+%40+TMU;VP+of+Technology+%40+TMU+BYTE;Shipping+things+that+run+in+production." alt="" />
 
