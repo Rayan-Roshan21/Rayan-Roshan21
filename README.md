@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Rayan Roshan" width="420" />
+<img src="./assets/banner.svg" alt="Rayan Roshan" width="420" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=00FF9C&center=true&vCenter=true&width=620&lines=CS+Co-op+'29+%40+TMU;VP+of+Technology+%40+TMU+BYTE;Shipping+things+that+run+in+production." alt="" />
 
@@ -8,7 +8,7 @@
 
 <a href="https://rayanroshan.com"><img src="https://img.shields.io/badge/site-0d1117?style=for-the-badge&logo=firefox&logoColor=00ff9c&labelColor=0d1117" alt="website" /></a>
 <a href="https://linkedin.com/in/rayan-roshan"><img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c&labelColor=0d1117" alt="linkedin" /></a>
-<a href="mailto:2006rayanroshan@gmail.com"><img src="https://img.shields.io/badge/mail-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=0d1117" alt="email" /></a>
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/mail-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=0d1117" alt="email" /></a>
 
 <br><br>
 
@@ -68,14 +68,10 @@
 <br>
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rayan-Roshan21&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&icon_color=00ff9c&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Rayan-Roshan21&show_icons=true&hide_border=true&title_color=1a7f5a&icon_color=1a7f5a&include_all_commits=true&count_private=true" alt="stats" height="160" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Roshan21&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Roshan21&layout=compact&hide_border=true&title_color=1a7f5a" alt="languages" height="160" />
-</picture>
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="stats" />
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="languages" />
+<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="productive time" />
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="most committed languages" />
 
 </div>
 </details>
