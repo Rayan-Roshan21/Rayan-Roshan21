@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Rayan Roshan" width="420" />
+<img src="./banner.svg" alt="Rayan Roshan" width="420" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=00FF9C&center=true&vCenter=true&width=620&lines=CS+Co-op+'29+%40+TMU;VP+of+Technology+%40+TMU+BYTE;Shipping+things+that+run+in+production." alt="" />
 
@@ -8,7 +8,7 @@
 
 <a href="https://rayanroshan.com"><img src="https://img.shields.io/badge/site-0d1117?style=for-the-badge&logo=firefox&logoColor=00ff9c&labelColor=0d1117" alt="website" /></a>
 <a href="https://linkedin.com/in/rayan-roshan"><img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c&labelColor=0d1117" alt="linkedin" /></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/mail-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=0d1117" alt="email" /></a>
+<a href="mailto:2006rayanroshan@gmail.com"><img src="https://img.shields.io/badge/mail-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=0d1117" alt="email" /></a>
 
 <br><br>
 
