@@ -8,7 +8,7 @@
 
 <a href="https://rayanroshan.com"><img src="https://img.shields.io/badge/site-0d1117?style=for-the-badge&logo=firefox&logoColor=00ff9c&labelColor=0d1117" alt="website" /></a>
 <a href="https://linkedin.com/in/rayan-roshan"><img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c&labelColor=0d1117" alt="linkedin" /></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/mail-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=0d1117" alt="email" /></a>
+<a href="mailto:2006rayanroshan@gmail.com"><img src="https://img.shields.io/badge/mail-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=0d1117" alt="email" /></a>
 
 <br><br>
 
